@@ -40,6 +40,6 @@ steps:
   inputs:
     command: push
     nuGetFeedType: internal
-    publishVstsFeed: 'Tailspin.SpaceGame.Web.Models/Tailspin.SpaceGame.Web.ModelsTest'
+    publishVstsFeed: 'vg411hspacegame/Tailspin.SpaceGame.Web.ModelsTest'
     allowPackageConflicts: true
   condition: succeeded()
